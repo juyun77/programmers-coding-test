@@ -7,7 +7,7 @@
 // n = 2 : num_list의 a번 인덱스부터 마지막 인덱스까지
 // n = 3 : num_list의 a번 인덱스부터 b번 인덱스까지
 // n = 4 : num_list의 a번 인덱스부터 b번 인덱스까지 c 간격으로
-// 올바르게 슬라이싱한 리스트를 return하도록 solution 함수를 완성해주세요.
+// 올바르게 슬라이싱한 리스트를 return하도록 solution 함수를 완성해주세요..!!
 
 function solution(n, slicer, num_list) {
   var answer = [];
